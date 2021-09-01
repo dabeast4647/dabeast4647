@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dabeast4647
-- 👀 I’m interested in developing Roblox related discord bots
-- 🌱 I’m currently learning Python and Java.
+- 👀 I’m interested in developing Roblox related discord bots + Generic Discord Bots
+- 🌱 I’m currently working on transfering music bots to function with discord.js v13.
 - 💞️ I’m looking to collaborate on Discord.
 - 📫 How to reach me, dabeast4647#5433.
 
